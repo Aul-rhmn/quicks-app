@@ -46,7 +46,6 @@ This is the frontend implementation of **Quicks**, a pop-up application featurin
 
 * **React.js** – Functional components & hooks
 * **Tailwind CSS** – Utility-first CSS framework
-* **Vite** – Fast dev server and build tool
 * **React Icons** – Feather icon library
 * **JavaScript (ES6+)** – Modern syntax and JSX
 * **npm / yarn** – For package management
