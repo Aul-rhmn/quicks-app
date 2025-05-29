@@ -4,6 +4,7 @@
 This is the frontend implementation of **Quicks**, a pop-up application featuring two alternating tools: **Messaging** and a **To-Do List**. The goal of this project is to deliver a **pixel-perfect, interactive frontend experience** based on a provided Figma design, with backend behavior simulated using dummy data.
 
 **Live Demo**: [https://quicks-app-pi.vercel.app](https://quicks-app-pi.vercel.app)
+
 **Figma Design**: [View Design](https://bit.ly/simpul-front-end-challenge-quicks)
 
 ---
