@@ -67,7 +67,7 @@ Make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Aul-rhmn/quicks-app.git
 cd quicks-app
 ```
 
